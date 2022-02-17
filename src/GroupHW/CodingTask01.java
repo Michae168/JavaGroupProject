@@ -2,7 +2,7 @@ package GroupHW;
 
 import java.util.Scanner;
 
-public class CodingTask1 {
+public class CodingTask01 {
 	
 	public static void main(String[] args) {
 		
